@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TheInfamousTony
-- 👀 I’m interested in Unity and programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate with my friends
-- 📫 How to reach me by using discord: theinfamoustony
+- 👋 Helloo
+- 👀 I'm a Unity game dev
+- 📫 My Discord user: theinfamoustony
 
 <!---
 TheInfamousTony/TheInfamousTony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
